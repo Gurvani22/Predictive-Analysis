@@ -1,6 +1,4 @@
-# Credit Card Fraud Detection Using Sampling Techniques
-
-## Project Overview
+## Overview
 
 This project analyzes how **different sampling techniques** influence the performance of various **machine learning models** on a **credit card fraud detection dataset**.
 Since fraud datasets are typically **highly imbalanced**, the study focuses on balancing the data, creating multiple samples using different sampling strategies, and evaluating model accuracy on each sample.
